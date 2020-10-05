@@ -4,7 +4,7 @@
 
 ## Overview
 
-- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala. 
+- The goal of this project is to have codes for various data structures and algorithms in - C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala. 
 - Feel free to contribute in any way you want.
 - Make sure to follow the contribution guidelines listed below.
 
